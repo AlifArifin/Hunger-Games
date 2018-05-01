@@ -1,5 +1,6 @@
 # Hunger Games
 By : ayo kita semangat
+Role-playing game with plot like Hunger Games.
 
 ## Cara Penggunaan
 pada awal permainan hanya dapat menggunakan start\0 atau loadGame\1
@@ -130,10 +131,17 @@ digunakan untuk keluar dari program
 
 Penjalanan program dapat dilakukan pada OS apapun asalakan support [GNU Prolog](http://www.gprolog.org/) (sejauh ini saya tau OS yang support adalah, windows, macOs dan linux).
 
-Program dapat dijalankan dengan 'mendouble click' file atau lewat 'consult' file atau dengan gplc command
+Program dapat dijalankan dengan 'mendouble click' file atau lewat 'consult' file 
+```
+consult(<namafile>)
+> consult('HungerGames.pl')
+```
+
+atau dengan gplc command
 
 ```
 gplc <nama file>
+gplc HungerGames.pl
 ```
 
 ## Penting
@@ -144,4 +152,12 @@ untuk penggunaan nama konstanta yang memiliki spasi wajib menggunakan ' (petik)
 misal : take('canned soup').
 ```
 
+## Dibangun dengan
+
+**[GNU Prolog 1.4.4]**(http://www.gprolog.org) - Compiler
+
 ## Kontributor
+**Rahmat Nur Ibrahim Santosa** - *Mapping, Look*
+**Muhammad Alif Arifin** - *Start, Food Enemy, Water, Weapon, Medicine, Status, Take, Move, Surrender, Makedonut, Attack, Map* - [AlifArifin](https://github.com/AlifArifin/)
+**Rabbi Fijar Mayoza** - *Plot, Save, Load*
+**Hafiz Maulana** - *Help, Drop, Use*
