@@ -157,7 +157,10 @@ misal : take('canned soup').
 **[GNU Prolog 1.4.4]**(http://www.gprolog.org) - Compiler
 
 ## Kontributor
-**Rahmat Nur Ibrahim Santosa** - *Mapping, Look*
+**Rahmat Nur Ibrahim Santosa** - *Mapping, Look* - [rnsantosa](https://github.com/rnsantosa)
+
 **Muhammad Alif Arifin** - *Start, Food Enemy, Water, Weapon, Medicine, Status, Take, Move, Surrender, Makedonut, Attack, Map* - [AlifArifin](https://github.com/AlifArifin/)
-**Rabbi Fijar Mayoza** - *Plot, Save, Load*
+
+**Rabbi Fijar Mayoza** - *Plot, Save, Load* - [Pollycarpus](https://github.com/Pollycarpus)
+
 **Hafiz Maulana** - *Help, Drop, Use*
